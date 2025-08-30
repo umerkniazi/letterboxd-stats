@@ -2,7 +2,7 @@
 
 Generate interactive stats from your Letterboxd data using Python and Plotly. Explore your watch habits, favorite directors, genres, and more.
 
-**Live demo:** Open `index.html` in the repo (pre-generated charts).
+**Live demo:** [View demo here](http://umerkniazi.dev/letterboxd-stats/)
 
 ## ✨ Features
 
@@ -55,7 +55,7 @@ python fetch_metadata.py
 
 python render_stats.py
 
-3. Open `stats.html` in your browser to explore your personalized stats.
+3. Open `index.html` in your browser to explore your personalized stats.
 
 ---
 
